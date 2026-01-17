@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="g2" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <!-- jejak garis sidik jari -->
+  <path d="M32 12c-7 0-14 6-14 14" stroke="url(#g2)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M32 18c-5 0-10 5-10 10" stroke="url(#g2)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M32 24c-3 0-6 3-6 6" stroke="url(#g2)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M32 12c7 0 14 6 14 14" stroke="url(#g2)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M32 18c5 0 10 5 10 10" stroke="url(#g2)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M32 24c3 0 6 3 6 6" stroke="url(#g2)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M22 36c3 7 5 11 10 16" stroke="url(#g2)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M42 36c-2 6-4 10-10 16" stroke="url(#g2)" stroke-width="3" stroke-linecap="round"/>
+</svg>

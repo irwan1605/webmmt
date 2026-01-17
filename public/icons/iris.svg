@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="g3" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <!-- bentuk mata -->
+  <path d="M6 32c8-10 18-14 26-14s18 4 26 14c-8 10-18 14-26 14S14 42 6 32z" stroke="url(#g3)" stroke-width="3"/>
+  <!-- iris + pupil -->
+  <circle cx="32" cy="32" r="10" stroke="url(#g3)" stroke-width="3"/>
+  <circle cx="32" cy="32" r="4" fill="#38bdf8"/>
+  <!-- garis radial -->
+  <g stroke="url(#g3)" stroke-linecap="round" opacity=".8">
+    <path d="M32 22v-4"/><path d="M42 32h4"/><path d="M32 42v4"/><path d="M22 32h-4"/>
+  </g>
+</svg>
