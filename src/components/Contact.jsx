@@ -10,8 +10,8 @@ export default function Contact({
   address = "JL. Raya Cilangkap - Gg. Duri 3, Cimpaeun, Kec. Tapos, Kota Depok, Jawa Barat 16459",
   mapUrl = "https://maps.app.goo.gl/YcmsauVvqvi7ny4WA",
   mapEmbedUrl, // opsional: jika tak disediakan, dibuat otomatis dari address
-  email = "sanmoto.id",
-  phone = "+62 856-9244-0014",
+  email = "admmilaphone@gmail.com",
+  phone = "+62 815-1308-0380",
 
 
   // 🔧 Posisi marker dalam persen relatif ke kartu peta (default kira2 pusat)

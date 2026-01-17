@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import { MessageCircle } from "lucide-react";
 import { useLanguage } from "../context/LanguageContext.jsx";
 
-export default function ContactForm({ waNumber = "085717281734" }) {
+export default function ContactForm({ waNumber = "081513080380" }) {
   const { t } = useLanguage();
 
   const [form, setForm] = useState({
