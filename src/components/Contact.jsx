@@ -7,7 +7,7 @@ import ContactForm from "./ContactForm";
 
 export default function Contact({
   companyName = "PT. Mila Media Telekomunikasi",
-  address = "JL. RAYA CIMPAUEN - Gg. Duri 3, Cimpaeun, Kec. Tapos, Kota Depok, Jawa Barat 16459",
+  address = "JL. Raya Cilangkap - Gg. Duri 3, Cimpaeun, Kec. Tapos, Kota Depok, Jawa Barat 16459",
   mapUrl = "https://maps.app.goo.gl/YcmsauVvqvi7ny4WA",
   mapEmbedUrl, // opsional: jika tak disediakan, dibuat otomatis dari address
   email = "sanmoto.id",
