@@ -143,7 +143,10 @@ export const dictionaries = {
       addressLabel: "Alamat",
       phoneLabel: "Telepon",
       sendEmailBtn: "Kirim Email",
+    
+      contactUs: "Hubungi Kami", // ✅ FIX ERROR
     },
+    
 
     contactForm: {
       waHeader: "Halo SANMOTO",
